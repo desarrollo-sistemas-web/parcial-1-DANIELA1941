@@ -4,5 +4,6 @@
 // Complejidad: MEDIA (2 puntos)
 
 function contarVocales($texto) {
-    // Tu código aquí
+    $cantidad= count($texto);
+    return $cantidad;
 }
